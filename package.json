@@ -1,13 +1,22 @@
 {
-  "name": "theme-starter",
-  "title": "Starer Theme",
-  "displayName": "Starer Theme",
+  "name": "theme-solarized-dark-higher-contrast",
+  "title": "Solarized Dark Higher Contrast",
+  "displayName": "Solarized Dark Higher Contrast",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A theme based on Solarized Dark Higher Contrast palette from iTerm2 Color Schemes",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniogenaro/Mailspring-Solarized-Dark-Higher-Contrast.git"
+  },
+  "author": "https://github.com/antoniogenaro",
+  "bugs": {
+    "url": "https://github.com/antoniogenaro/Mailspring-Solarized-Dark-Higher-Contrast/issues"
+  },
+  "homepage": "https://github.com/antoniogenaro/Mailspring-Solarized-Dark-Higher-Contrast#readme"
 }
 
